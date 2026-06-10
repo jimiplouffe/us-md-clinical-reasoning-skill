@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "U.S. MD Clinical Reasoning Skill"
+message: "If you use this skill in research or public work, please cite the repository."
+type: software
+authors:
+  - family-names: Plouffe
+    given-names: Jimi
+year: 2026
+license: MIT
+repository-code: "https://github.com/your-org/us-md-clinical-reasoning-skill"
+abstract: "A safety-first U.S. clinical reasoning skill for AI medical intake, triage, medication caution, patient education, and clinician-visit preparation."

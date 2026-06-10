@@ -1,0 +1,27 @@
+{
+  "name": "us_md_clinical_reasoning_skill",
+  "version": "1.1-final",
+  "description": "Safety-first U.S. clinical reasoning skill for AI agents: triage, medication caution, patient education, and clinician-visit prep.",
+  "jurisdiction": "United States",
+  "primary_file": "skills/us_md_clinical_reasoning_skill.md.md",
+  "intended_use": [
+    "symptom triage support",
+    "medication safety review",
+    "patient education",
+    "doctor-visit preparation",
+    "medical content QA"
+  ],
+  "prohibited_use": [
+    "autonomous diagnosis",
+    "prescribing",
+    "emergency replacement",
+    "medical documentation fraud",
+    "unsupervised clinical decision-making"
+  ],
+  "emergency_resources": {
+    "emergency": "911",
+    "poison_control_us": "1-800-222-1222",
+    "mental_health_crisis_us": "988"
+  },
+  "license": "MIT"
+}
